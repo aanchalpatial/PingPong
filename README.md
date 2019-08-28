@@ -1,4 +1,4 @@
-# PingPong
+# PingPong : For Football Fans
 
 As we know there are many Ping Pong games out there already, my Ping Pong game is especially for **football fans** as i am one of them.
 
